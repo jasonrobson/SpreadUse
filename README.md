@@ -1,2 +1,0 @@
-# SpreadUse
-Created with CodeSandbox
